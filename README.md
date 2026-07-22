@@ -9,3 +9,4 @@
 * `k8s/`: Manifiestos YAML de despliegue y servicios para Kubernetes.
 * `diagrams/`: Diagrama de arquitectura editable en formato nativo draw.io.
 "# smartcontract_kubernetes_andres_silva" 
+"# andres_silva_smartcontract_kubernetes" 
