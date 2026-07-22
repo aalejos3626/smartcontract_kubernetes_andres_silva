@@ -1,0 +1,10 @@
+=== Paso 2 - Escalado a 5 Replicas ===
+
+PODS:
+
+
+REPLICASETS:
+
+
+ROLLOUT STATUS:
+

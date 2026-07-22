@@ -1,0 +1,10 @@
+=== Paso 3 - Rolling Update Completado ===
+
+PODS:
+
+
+REPLICASETS:
+
+
+ROLLOUT STATUS:
+

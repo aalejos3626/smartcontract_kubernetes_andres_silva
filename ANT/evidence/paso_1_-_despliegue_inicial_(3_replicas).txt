@@ -1,0 +1,10 @@
+=== Paso 1 - Despliegue Inicial (3 Replicas) ===
+
+PODS:
+
+
+REPLICASETS:
+
+
+ROLLOUT STATUS:
+
