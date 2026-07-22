@@ -1,2 +1,0 @@
-pip install Pillow
-python generar_capturas_k8s.py
